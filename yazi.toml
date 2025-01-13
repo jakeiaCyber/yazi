@@ -4,7 +4,7 @@
 # TODO: https://github.com/Sonico98/allmytoes.yazi?tab=readme-ov-file
 
 [manager]
-ratio = [1, 4, 3]
+ratio = [3, 4, 3]
 sort_by = "mtime"
 sort_sensitive = false
 sort_reverse = true
